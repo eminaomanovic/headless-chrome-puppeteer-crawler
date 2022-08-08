@@ -1,0 +1,11 @@
+{
+  "name": "headless-chrome-puppeteer",
+  "version": "1.0.0",
+  "description": "Headless Chrome crawler using Puppeteer - simple and parallel version",
+  "author": "Mirvic Emina",
+  "main": "app.js",
+  "dependencies": {
+    "puppeteer": "^15.5.0",
+    "robots-txt-parser": "^2.0.3"
+  }
+}
