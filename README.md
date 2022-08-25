@@ -6,7 +6,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png?20200318094909" height="110" align="right" style="bottom: 0px;"/>
 
 
-[Building a dynamic crawler with Puppeteer and Headless Chrome](https://www.atlantbh.com/blog/) blog explains how crawling of dynamic pages can be done along with scraping data from crawled websites. The file **app.js** crawls blog links from https://www.atlantbh.com/blog/ page and then scrapes each of them on three different ways, showing different execution times. 
+[Building a dynamic crawler with Puppeteer and Headless Chrome](https://www.atlantbh.com/building-a-dynamic-crawler-with-puppeteer-and-headless-chrome/) explains how crawling of dynamic pages can be done along with scraping data from crawled websites. The file **app.js** crawls blog links from https://www.atlantbh.com/blog/ page and then scrapes each of them on three different ways, showing different execution times. 
 Libraries used in this repository are:
  
 > [**puppeteer**](https://github.com/puppeteer/puppeteer) is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
